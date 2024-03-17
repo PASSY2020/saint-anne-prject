@@ -1,0 +1,48 @@
+#body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(245, 198, 136, 0.555);
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: blueviolet;
+
+}
+ .contentleft{
+    margin: 30px;
+    padding: 20px;
+    height: 10vh;
+    width: 50%;
+    background-color: aqua;
+}
+/*.contentright{
+    margin: 30px;
+    padding: 20px;
+    height: 5vh;
+    width: 20%;
+    background-color: aqua;
+}
+.contentmid{
+    margin: 30px;
+    padding: 20px;
+    height: 10vh;
+    width: 20%;
+    background-color: aqua;
+}
+.contentanswer{
+    margin: 30px;
+    padding: 20px;
+    height: 10vh;
+    width: 20%;
+    background-color: aqua;
+} */
